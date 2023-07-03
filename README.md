@@ -4,7 +4,7 @@
 
 <p>Espero que dê uma luz no fim do túnel, se estiver passando pelo o que eu já passei!</p>
 
-<hr>
+<br>
 
 <div align="center">
   <img src="https://github.com/GioGardinali/42-imersao-SP/blob/main/swimming.gif" alt="Boa imersão!"/>
